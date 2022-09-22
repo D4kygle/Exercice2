@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\maxan\\Bureau\\exerciceSomatif2\\ExerciceSomatif2\\ExerciceSomatif2\\ExerciceSomatif2.csproj": {}
+    "C:\\Users\\maxan\\Bureau\\exerciceSomatif2\\Exercice2\\ExerciceSomatif2\\ExerciceSomatif2\\ExerciceSomatif2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\maxan\\Bureau\\exerciceSomatif2\\ExerciceSomatif2\\ExerciceSomatif2\\ExerciceSomatif2.csproj": {
+    "C:\\Users\\maxan\\Bureau\\exerciceSomatif2\\Exercice2\\ExerciceSomatif2\\ExerciceSomatif2\\ExerciceSomatif2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maxan\\Bureau\\exerciceSomatif2\\ExerciceSomatif2\\ExerciceSomatif2\\ExerciceSomatif2.csproj",
+        "projectUniqueName": "C:\\Users\\maxan\\Bureau\\exerciceSomatif2\\Exercice2\\ExerciceSomatif2\\ExerciceSomatif2\\ExerciceSomatif2.csproj",
         "projectName": "ExerciceSomatif2",
-        "projectPath": "C:\\Users\\maxan\\Bureau\\exerciceSomatif2\\ExerciceSomatif2\\ExerciceSomatif2\\ExerciceSomatif2.csproj",
+        "projectPath": "C:\\Users\\maxan\\Bureau\\exerciceSomatif2\\Exercice2\\ExerciceSomatif2\\ExerciceSomatif2\\ExerciceSomatif2.csproj",
         "packagesPath": "C:\\Users\\maxan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maxan\\Bureau\\exerciceSomatif2\\ExerciceSomatif2\\ExerciceSomatif2\\obj\\",
+        "outputPath": "C:\\Users\\maxan\\Bureau\\exerciceSomatif2\\Exercice2\\ExerciceSomatif2\\ExerciceSomatif2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
